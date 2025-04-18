@@ -1,6 +1,6 @@
-# NAMU Landing Page
+# Art Vibe
 
-[DEMO LINK](https://podvax.github.io/NAMU_new/)
+[DEMO LINK](https://podvax.github.io/ArtVibe/)
 
 [FIGMA DESIGN](https://www.figma.com/design/HL3XGt5ZatvJoYBhOaWY5x/museum-prototype?node-id=323-1957&node-type=canvas&t=A5ZNGbEgK7dd7hPr-0)
 
